@@ -21,6 +21,7 @@ Investigates how changes in model parameters affect computational outcomes throu
 
 ### Project 4: Computational Simulation & Data Classification
 **Status:** In progress
+
 **Focus:** Automata, Data Classification, Exploratory Data Analysis
 
 Explores computational simulation through Conway's Game of Life and introduces data science through the development of an Iris flower classifier. Applies NumPy arrays, Pandas DataFrames, and algorithmic problem decomposition to model evolving systems, analyze multidimensional datasets, and classify observations based on numerical features.
