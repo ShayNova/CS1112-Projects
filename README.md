@@ -19,8 +19,7 @@ Applies Monte Carlo methods to estimate geometric areas and uses iterative numer
 
 Investigates how changes in model parameters affect computational outcomes through capacitor voltage sensitivity analysis and simulations of colliding objects. Introduces modular program development, array operations, physical modeling, and scientific visualization.
 
-### Project 4: Computational Simulation & Data Classification
-**Status:** In progress
+### Project 4: Computational Simulation & Data Classification (In Progress)
 
 **Focus:** Automata, Data Classification, Exploratory Data Analysis
 
