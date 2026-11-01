@@ -35,7 +35,9 @@ applied to numerical approximation, practical calculations, and geometric modeli
 ## Technologies
 
 **Language:** Python
+
 **Environment:** Jupyter Notebook
+
 **Libraries:** Matplotlib, random
 
 ## Key Takeaway
