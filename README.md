@@ -48,4 +48,4 @@ Interested in applying statistical reasoning, programming, and computational mod
 
 Each project folder contains its associated Python scripts or Jupyter notebooks, along with a README describing the project's objectives, computational methods, and technical concepts.
 
-*Developed as part of Cornell University's CS 1112 coursework.* 
+## *Warning: Developed as part of Cornell University's CS 1112 coursework. Not meant to be utilized for college assignments, especially for future CS1112 projects.* ##
